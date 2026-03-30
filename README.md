@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stock Move Explainer
 
 This project explains why a stock moved on a specific date, using:
@@ -91,3 +92,6 @@ export ANTHROPIC_API_KEY="your_real_anthropic_key"
 - `--tickers` accepts one or many comma-separated symbols.
 - If the market was closed on that date, the app may say no valid trading data was found.
 - International suffix examples: London `.L` (`HSBA.L`), Tokyo `.T` (`7203.T`), Paris `.PA` (`AIR.PA`).
+=======
+# stockmove
+>>>>>>> fc4a21736e353fd968af76d7c37a2ad6c8bdcb7b
